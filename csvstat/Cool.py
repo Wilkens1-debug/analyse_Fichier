@@ -66,5 +66,5 @@ def analyze_csv(fichye_csv):
     except Exception as j:
         print(f"Gen yon ere nan fichye a: {j}")
 
-print("we are happy.")
+
 
